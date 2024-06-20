@@ -1,12 +1,7 @@
-let numero = prompt('Digite seu número')
+ var peso = prompt(digite seu peso)
 
-numero = parseInt(numero)
+ var imc = informepeso
 
-if > 0  && numero % 2 === 0) {
-    console.log(`o numero $(numero) é par`)
+ if (imc <= 67.6){
+
 }
-
-else {
- console.log(`o numero $(numero) não é par`)
-}
-
